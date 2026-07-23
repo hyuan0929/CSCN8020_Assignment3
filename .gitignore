@@ -1,6 +1,11 @@
 .venv/
+venv/
+env/
 __pycache__/
+.ipynb_checkpoints/
 *.py[cod]
+*.pyc
+.DS_Store
 .vscode/
 .agents/
 AGENTS.md
@@ -8,5 +13,11 @@ PROJECT_CONTEXT.md
 Unitree_MuJoCo_G1_Primer_Workshop_v0.ipynb
 external/
 logs/
-results/
-*.csv
+tmp/
+results/smoke/
+tmp_report_page-*.png
+submission_package/
+old_do_not_submit/
+*.mp4
+*.zip
+docs/superpowers/
