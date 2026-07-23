@@ -22,7 +22,7 @@ in the MuJoCo viewer using the saved selected checkpoint.
 
 - Windows 11 with WSL 2
 - Ubuntu 24.04
-- Python 3.12
+- Python 3.14.4
 - CPU execution
 - WSLg for MuJoCo viewer rendering
 
